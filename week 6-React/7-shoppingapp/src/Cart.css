@@ -1,0 +1,10 @@
+.tb {
+    color: green;
+    border: 1px solid black;
+    border-spacing: 4px;
+}
+
+.tb th, .tb td {
+    border: 1px solid black;
+    text-align: center;
+}
